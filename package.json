@@ -1,0 +1,21 @@
+{
+  "name": "job-postings-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^6.7.1",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dompurify": "^3.2.2",
+    "express": "^4.21.2",
+    "pg": "^8.13.1"
+  }
+}
